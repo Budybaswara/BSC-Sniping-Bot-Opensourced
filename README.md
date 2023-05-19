@@ -2,7 +2,7 @@
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
   <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
-  <p></p>
+  <p>My website: defix.app</p>
   <p>Snipe New Tokens on all BSC Dexes within 1 millisecond</p>
   <p align="center">
 
@@ -43,7 +43,7 @@
 
 OPTION 1, select your OS and download an executable GUI:
 
-[![OS](os.png)](https://defix.app/portfolio/arbitrum-sniping-bot-opensource/)
+[![OS](os.png)](https://defix.app/portfolio/bsc-sniping-bot-opensource/)
 
 OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
 
