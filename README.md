@@ -27,8 +27,7 @@
 </div>
 
 
-## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
-[![BSC sniping GUI](defixinfographic.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
+
 
 
 ## 🚀 Features
@@ -63,9 +62,9 @@ pip3 install -r requirements.txt
 python3 astra-arbitrum.py
 ```
 The GUI will pop up
-## 💎 Successfull 40,000k snipe the other day :)
 
-![Code preview](success.png)
+## 🚀 Thanks to JEMJEM for trying it out Live! Click on the image below for a video:
+[![BSC sniping GUI](defixinfographic.png)](https://www.youtube.com/watch?v=yEB9YAyfamE)
 
 ## 🤝 Sponsors
 
