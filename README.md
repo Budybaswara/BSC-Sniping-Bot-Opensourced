@@ -16,7 +16,7 @@
 </p>
   
 
- 
+ <p>My GMX Trading Bot (Bear and Bull market): https://github.com/Protoxs/GMX-Trading-Bot-Opensourced</p>
  
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
   [![sponsor](https://img.shields.io/opencollective/all/fakerjs?label=sponsors)](https://opencollective.com/fakerjs)
