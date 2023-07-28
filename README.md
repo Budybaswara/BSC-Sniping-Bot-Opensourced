@@ -2,7 +2,7 @@
   <img src="pancakex.png" width="200"/>
   <h1>PancakeX</h1>
   <h2>THIS NEW VERSION IS FOR BSC ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
-  <p>My website: defix.agency</p>
+  <p>My website: defiex.tech</p>
   <p>Snipe New Tokens on all BSC Dexes within 1 millisecond</p>
   <p align="center">
 
