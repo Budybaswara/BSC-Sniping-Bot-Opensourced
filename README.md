@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
 </p>
   
-
+ <p>Paid All Chain Sniping Bot: https://defixclub.shop/portfolio/crosschain-sniping-bot/</p>
  <p>My GMX Trading Bot (Bear and Bull market): https://github.com/Protoxs/GMX-Trading-Bot-Opensourced</p>
  <p>Ethereum Sniping Bot from abre: https://github.com/Abregud/EthereumX-Sniping-Bot-Demo/</p>
   
